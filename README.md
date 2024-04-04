@@ -7,7 +7,7 @@ Layout Responsivo: O site é otimizado para funcionar em diferentes dispositivos
 Navegação Intuitiva: A interface foi projetada para facilitar a navegação entre os vídeos e categorias.
 
 # Tecnologias Utilizadas
-HTML5
+HTML5 <br>
 CSS3 (Flexbox)
 
 # Como Utilizar
