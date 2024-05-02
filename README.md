@@ -2,7 +2,14 @@
   <h1>AluraPlay</h1>
 </div>
 
-Este é o AluraPlay, um site de vídeos desenvolvido como parte da trilha de Front-end da Alura. O principal objetivo deste projeto foi aprimorar as habilidades de layout utilizando Flexbox.
+
+
+<p>Este é o AluraPlay, um site de vídeos desenvolvido como parte da trilha de Front-end da Alura. O principal objetivo deste projeto foi aprimorar as habilidades de layout utilizando Flexbox.</p>
+<br>
+<div align='center'>
+<img src="https://github.com/JulianafBandeira/AluraPlay/assets/74437592/8979743b-32b8-4a49-b844-37107e4efb5e" width="800">
+</div>
+<br>
 
 <h2>Funcionalidades</h2>
 Visualização de vídeos: Os usuários podem navegar e assistir à uma variedade de vídeos.<br>
@@ -18,3 +25,4 @@ Clone este repositório em sua máquina local:
 git clone https://github.com/JulianafBandeira/AluraPlay.git
 
 Abra o arquivo index.html em seu navegador web.
+
